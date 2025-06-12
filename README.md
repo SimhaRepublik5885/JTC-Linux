@@ -1,1 +1,1 @@
-# JTC-Linux
+All about Linux
